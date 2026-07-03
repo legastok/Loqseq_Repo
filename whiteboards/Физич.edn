@@ -40,7 +40,88 @@
 {:block/uuid #uuid "6a44de79-7ed3-4656-96f0-08013b72c74d"}
 :block/parent 
 {:block/uuid #uuid "6a44bb28-f5ee-47f2-b0ae-8c9048a411d9"}
-:block/uuid #uuid "6a44e08a-296d-451c-bfa4-34d21c7696f3"})
+:block/uuid #uuid "6a44e08a-296d-451c-bfa4-34d21c7696f3"} 
+{:block/created-at 1783078600954
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "gray"
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "sm"
+:fill "gray"
+:type "box"
+:size [832 208]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "74a9ad10-76d3-11f1-8c53-9baf15244967"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [-344 560]
+:fontSize 16
+:parentId "6a44bb28-f5ee-47f2-b0ae-8c9048a411d9"
+:nonce 1782898497799
+:italic false}}
+:block/updated-at 1783078600954} 
+{:block/created-at 1783078603469
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "gray"
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "sm"
+:fill "gray"
+:type "box"
+:size [832 208]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "7634e0f0-76d3-11f1-8c53-9baf15244967"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [-344 872]
+:fontSize 16
+:parentId "6a44bb28-f5ee-47f2-b0ae-8c9048a411d9"
+:nonce 1782898497789
+:italic false}}
+:block/updated-at 1783078603469} 
+{:block/created-at 1783078606267
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "gray"
+:rotation 0
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "sm"
+:fill "gray"
+:type "box"
+:size [832 208]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "776830d0-76d3-11f1-8c53-9baf15244967"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [-352 1168]
+:fontSize 16
+:parentId "6a44bb28-f5ee-47f2-b0ae-8c9048a411d9"
+:nonce 1782898497803
+:italic false}}
+:block/updated-at 1783078606267})
 :pages (
 {:block/uuid #uuid "6a44bb28-f5ee-47f2-b0ae-8c9048a411d9"
 :block/properties 
@@ -52,8 +133,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1f98e5b0-7530-11f1-b420-41e4a22c14ce")}}
-:block/updated-at 1783078590162
+:shapes-index ("1f98e5b0-7530-11f1-b420-41e4a22c14ce" "74a9ad10-76d3-11f1-8c53-9baf15244967" "7634e0f0-76d3-11f1-8c53-9baf15244967" "776830d0-76d3-11f1-8c53-9baf15244967")}}
+:block/updated-at 1783078606267
 :block/created-at 1782889256017
 :block/type "whiteboard"
 :block/name "физич"
