@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6a44de79-7ed3-4656-96f0-08013b72c74d"} 
-{:block/created-at 1782904798221
+{:block/created-at 1783078590163
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -28,12 +28,12 @@
 :id "1f98e5b0-7530-11f1-b420-41e4a22c14ce"
 :fontWeight 400
 :noFill false
-:point [-120 104]
+:point [-360 208]
 :fontSize 16
 :parentId "6a44bb28-f5ee-47f2-b0ae-8c9048a411d9"
-:nonce 1782898497681
+:nonce 1782898497731
 :italic false}}
-:block/updated-at 1782904798221} 
+:block/updated-at 1783078590163} 
 {:block/content "((6a44bcb8-e53e-4ad4-871e-2c4201a87392))"
 :block/format :markdown
 :block/left 
@@ -53,7 +53,7 @@
 :nonce 1
 :assets []
 :shapes-index ("1f98e5b0-7530-11f1-b420-41e4a22c14ce")}}
-:block/updated-at 1782904800389
+:block/updated-at 1783078590162
 :block/created-at 1782889256017
 :block/type "whiteboard"
 :block/name "физич"
